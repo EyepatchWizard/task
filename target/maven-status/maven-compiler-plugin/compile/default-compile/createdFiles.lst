@@ -6,6 +6,7 @@ com\sazzad\task\domain\dto\TaskDto.class
 com\sazzad\task\controllers\GlobalExceptionHandler.class
 com\sazzad\task\domain\entities\TaskList.class
 com\sazzad\task\services\impl\TaskListServiceImpl.class
+com\sazzad\task\config\CorsConfig$1.class
 com\sazzad\task\repositories\TaskRepository.class
 com\sazzad\task\services\TaskService.class
 com\sazzad\task\mappers\impl\TaskListMapperImpl.class
@@ -16,6 +17,7 @@ com\sazzad\task\mappers\impl\TaskMapperImpl.class
 com\sazzad\task\TaskApplication.class
 com\sazzad\task\domain\entities\TaskList$TaskListBuilder.class
 com\sazzad\task\mappers\TaskListMapper.class
+com\sazzad\task\config\CorsConfig.class
 com\sazzad\task\controllers\TaskController.class
 com\sazzad\task\domain\entities\TaskStatus.class
 com\sazzad\task\domain\entities\TaskPriority.class
